@@ -6,5 +6,11 @@ Answer: Git is incredibly useful for us to be able to keep track of changes in o
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: I think that data science can be applied to any field where data is used or needed, and one specific example of this is the field of marketing!
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: I'm not certain, but by searching it up, it looks like merging preserves the entire history of a repository, versus rebasing creates a linear history of the repository
+
 >>>>>>> q2
 
