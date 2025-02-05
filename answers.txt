@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is incredibly useful for us to be able to keep track of changes in our code, meaning that if we have partially-correct solutions and then accidentally break our code later, as long as we committed our previous code, then we can find a way to easily revert these changes!x
+
